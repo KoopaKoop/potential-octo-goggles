@@ -1,6 +1,6 @@
 name: Simple Manual Workflow - Three Env
 on:
-  push:
+  workflow_dispatch:
 jobs:
   DEV:
     runs-on: ubuntu-latest
