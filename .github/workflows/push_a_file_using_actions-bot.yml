@@ -1,4 +1,4 @@
-name: build
+name: push_a_file_using_actions-bot
 
 on:
   workflow_dispatch:
